@@ -1,3 +1,3 @@
-# ProgramSynthesisForMWP
+# Program Synthesis For MWPs
 Program-synthesis has recently been shown to be effective at solving selected, university-level maths questions using language models trained on text and fine-tuned on code.
 More specifically, Drori et al. 2021, shows that a GPT-3 model, trained on Common Crawl and literary texts, when finetuned on 175 GB of freely available code from GitHub codex is capable of solving exam questions from MIT's and Columbia University's maths courses. Codex the model used in Drori et al. 2021, is however only available through OpenAI's closed API. Thus, our objective with this work is to explore the Math Word Problems solving capabilities of publicly available large language models (LLMs) trained on code, our primary dataset is GSM8k.
